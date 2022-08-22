@@ -1,3 +1,6 @@
+# @Authors: Ana Giulia Gonçalves Tavares / Matheus Pfau / Arthur Hardt
+# College Project - Universidade Presbiteriana Mackenzie
+
 import math
 import time
 global pontos
